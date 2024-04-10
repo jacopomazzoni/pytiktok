@@ -2,7 +2,7 @@ from TikTokApi import TikTokApi
 import asyncio
 import os
 
-video_id = 7248300636498890011
+video_id = 7350454864071150890
 ms_token = os.environ.get("ms_token", None)  # set your own ms_token
 
 

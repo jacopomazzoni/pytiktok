@@ -1,0 +1,6 @@
+
+   37  git clone https://github.com/davidteather/TikTok-Api.git
+   38  cd TikTok-Api
+  
+   40  python3 -m examples.trending_example
+

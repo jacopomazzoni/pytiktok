@@ -203,7 +203,7 @@ class TikTokApi:
     async def create_sessions(
         self,
         num_sessions=5,
-        headless=True,
+        headless=False,
         ms_tokens: list[str] = None,
         proxies: list = None,
         sleep_after=1,
